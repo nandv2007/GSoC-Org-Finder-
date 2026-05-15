@@ -586,6 +586,36 @@
         </button>
       </div>
       <!-- Stat Badges -->
+       <!-- Contribution Streak Tracker -->
+<div class="mt-6 flex flex-wrap gap-4">
+  
+  <div class="bg-white dark:bg-zinc-900 border border-zinc-200 dark:border-zinc-700 rounded-2xl px-5 py-4 shadow-sm min-w-[180px]">
+    <div class="flex items-center gap-2 mb-1">
+      <span class="material-symbols-outlined text-orange-500">local_fire_department</span>
+      <p class="text-xs text-zinc-500 dark:text-zinc-400 font-medium uppercase tracking-wide">
+        Current Streak
+      </p>
+    </div>
+    
+    <h3 id="currentStreak" class="text-2xl font-extrabold text-zinc-900 dark:text-white">
+      0 Days
+    </h3>
+  </div>
+
+  <div class="bg-white dark:bg-zinc-900 border border-zinc-200 dark:border-zinc-700 rounded-2xl px-5 py-4 shadow-sm min-w-[180px]">
+    <div class="flex items-center gap-2 mb-1">
+      <span class="material-symbols-outlined text-yellow-500">emoji_events</span>
+      <p class="text-xs text-zinc-500 dark:text-zinc-400 font-medium uppercase tracking-wide">
+        Best Streak
+      </p>
+    </div>
+
+    <h3 id="bestStreak" class="text-2xl font-extrabold text-zinc-900 dark:text-white">
+      0 Days
+    </h3>
+  </div>
+
+</div>
       <div class="flex flex-wrap gap-3 sm:gap-4">
         <div class="flex items-center gap-2 px-3 sm:px-4 py-2 bg-white rounded-xl border border-zinc-100 shadow-sm">
           <span class="material-symbols-outlined text-primary text-lg">groups</span>
@@ -2771,6 +2801,56 @@ document.addEventListener('DOMContentLoaded', () => {
   window.closeHelpModal = closeHelpModal;
 
 });
+<script>
+
+function updateContributionStreak() {
+
+  const today = new Date().toDateString();
+
+  let streakData = JSON.parse(localStorage.getItem("gsocStreak")) || {
+    lastVisit: null,
+    current: 0,
+    best: 0
+  };
+
+  if (streakData.lastVisit !== today) {
+
+    const lastDate = new Date(streakData.lastVisit);
+    const currentDate = new Date(today);
+
+    const diffTime = currentDate - lastDate;
+    const diffDays = diffTime / (1000 * 60 * 60 * 24);
+
+    if (diffDays === 1) {
+      streakData.current += 1;
+    } 
+    
+    else if (diffDays > 1 || isNaN(diffDays)) {
+      streakData.current = 1;
+    }
+
+    if (streakData.current > streakData.best) {
+      streakData.best = streakData.current;
+    }
+
+    streakData.lastVisit = today;
+
+    localStorage.setItem(
+      "gsocStreak",
+      JSON.stringify(streakData)
+    );
+  }
+
+  document.getElementById("currentStreak").innerText =
+    `${streakData.current} Days`;
+
+  document.getElementById("bestStreak").innerText =
+    `${streakData.best} Days`;
+}
+
+updateContributionStreak();
+
+</script>
 </script>
 <script src="src/js/githubAnalyzer.js"></script>
 <script src="src/js/skillExtractor.js"></script>
