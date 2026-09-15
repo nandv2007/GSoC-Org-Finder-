@@ -13,7 +13,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "ok",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "AboutCode": {
     "org": "AboutCode",
@@ -75,7 +75,7 @@
     "mailingLists": [],
     "tip": "Say hello in the public room and mention the project area you're exploring.",
     "status": "ok",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Accord Project": {
     "org": "Accord Project",
@@ -91,7 +91,7 @@
     "mailingLists": [],
     "tip": "Introduce yourself in the public channel before asking project-specific questions.",
     "status": "ok",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "AFLplusplus": {
     "org": "AFLplusplus",
@@ -101,7 +101,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Alaska": {
     "org": "Alaska",
@@ -111,7 +111,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "AnkiDroid": {
     "org": "AnkiDroid",
@@ -121,7 +121,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "AOSSIE": {
     "org": "AOSSIE",
@@ -130,8 +130,8 @@
     "mentors": [],
     "mailingLists": [],
     "tip": "",
-    "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "status": "fetch-failed",
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Apache Software Foundation": {
     "org": "Apache Software Foundation",
@@ -147,7 +147,7 @@
     ],
     "tip": "Send a short intro email with your background and the idea you're interested in.",
     "status": "ok",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "API Dash": {
     "org": "API Dash",
@@ -244,7 +244,7 @@
     "mailingLists": [],
     "tip": "Introduce yourself in the public channel before asking project-specific questions.",
     "status": "ok",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "ArduPilot": {
     "org": "ArduPilot",
@@ -260,7 +260,7 @@
     "mailingLists": [],
     "tip": "Introduce yourself in the public channel before asking project-specific questions.",
     "status": "ok",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Blender Foundation": {
     "org": "Blender Foundation",
@@ -270,7 +270,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Boa": {
     "org": "Boa",
@@ -280,7 +280,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "BRL-CAD": {
     "org": "BRL-CAD",
@@ -290,7 +290,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "C2SI": {
     "org": "C2SI",
@@ -300,7 +300,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "cBioPortal for Cancer Genomics": {
     "org": "cBioPortal for Cancer Genomics",
@@ -310,7 +310,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "CCExtractor Development": {
     "org": "CCExtractor Development",
@@ -320,7 +320,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Ceph": {
     "org": "Ceph",
@@ -330,7 +330,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "CERN-HSF": {
     "org": "CERN-HSF",
@@ -340,7 +340,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "CGAL Project": {
     "org": "CGAL Project",
@@ -350,7 +350,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "checkstyle": {
     "org": "checkstyle",
@@ -360,7 +360,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "CircuitVerse.org": {
     "org": "CircuitVerse.org",
@@ -446,7 +446,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "ok",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "CNCF": {
     "org": "CNCF",
@@ -456,7 +456,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "fetch-failed",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "CRIU": {
     "org": "CRIU",
@@ -466,7 +466,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Cuneiform Digital Library Initiative (CDLI)": {
     "org": "Cuneiform Digital Library Initiative (CDLI)",
@@ -476,7 +476,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "fetch-failed",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "D Language Foundation": {
     "org": "D Language Foundation",
@@ -486,7 +486,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "fetch-failed",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Dart": {
     "org": "Dart",
@@ -496,7 +496,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Data for the Common Good": {
     "org": "Data for the Common Good",
@@ -506,7 +506,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "DBpedia": {
     "org": "DBpedia",
@@ -516,7 +516,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Debian": {
     "org": "Debian",
@@ -542,7 +542,7 @@
     ],
     "tip": "Send a short intro email with your background and the idea you're interested in.",
     "status": "ok",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "DeepChem": {
     "org": "DeepChem",
@@ -552,7 +552,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Django Software Foundation": {
     "org": "Django Software Foundation",
@@ -568,7 +568,7 @@
     ],
     "tip": "Send a short intro email with your background and the idea you're interested in.",
     "status": "ok",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "dora-rs": {
     "org": "dora-rs",
@@ -578,7 +578,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Drupal Association": {
     "org": "Drupal Association",
@@ -588,7 +588,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Eclipse Foundation": {
     "org": "Eclipse Foundation",
@@ -598,7 +598,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "EROFS filesystem": {
     "org": "EROFS filesystem",
@@ -608,7 +608,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "FFmpeg": {
     "org": "FFmpeg",
@@ -618,7 +618,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "FLARE": {
     "org": "FLARE",
@@ -628,7 +628,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "FOSSASIA": {
     "org": "FOSSASIA",
@@ -638,7 +638,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "FOSSology": {
     "org": "FOSSology",
@@ -670,7 +670,7 @@
     ],
     "tip": "Join and say hi in the GSoC channel before DMing mentors.",
     "status": "ok",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Fortran-lang": {
     "org": "Fortran-lang",
@@ -680,7 +680,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Free and Open Source Silicon Foundation": {
     "org": "Free and Open Source Silicon Foundation",
@@ -690,7 +690,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "FreeCAD": {
     "org": "FreeCAD",
@@ -706,7 +706,7 @@
     "mailingLists": [],
     "tip": "Introduce yourself in the public channel before asking project-specific questions.",
     "status": "ok",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Gambit: The package for computation in game theory": {
     "org": "Gambit: The package for computation in game theory",
@@ -716,7 +716,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Gemini CLI": {
     "org": "Gemini CLI",
@@ -725,14 +725,14 @@
     "mentors": [
       {
         "name": "",
-        "github": "kambleakash0",
-        "githubUrl": "https://github.com/kambleakash0"
+        "github": "Devnil434",
+        "githubUrl": "https://github.com/Devnil434"
       }
     ],
     "mailingLists": [],
     "tip": "",
     "status": "ok",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Genome Assembly and Annotation": {
     "org": "Genome Assembly and Annotation",
@@ -742,7 +742,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "GeomScale": {
     "org": "GeomScale",
@@ -752,7 +752,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "German Center for Open Source AI": {
     "org": "German Center for Open Source AI",
@@ -762,7 +762,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Git": {
     "org": "Git",
@@ -772,7 +772,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Global Alliance for Genomics and Health": {
     "org": "Global Alliance for Genomics and Health",
@@ -782,7 +782,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "fetch-failed",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "GNOME Foundation": {
     "org": "GNOME Foundation",
@@ -792,7 +792,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "fetch-failed",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "GNU Compiler Collection (GCC)": {
     "org": "GNU Compiler Collection (GCC)",
@@ -814,7 +814,7 @@
     "mailingLists": [],
     "tip": "Post a new topic in the GSoC stream with your background and interest.",
     "status": "ok",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "GNU Image Manipulation Program": {
     "org": "GNU Image Manipulation Program",
@@ -824,7 +824,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "GNU Mailman": {
     "org": "GNU Mailman",
@@ -834,7 +834,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "fetch-failed",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "GNU Octave": {
     "org": "GNU Octave",
@@ -844,7 +844,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "GNU Project": {
     "org": "GNU Project",
@@ -860,7 +860,7 @@
     ],
     "tip": "Send a short intro email with your background and the idea you're interested in.",
     "status": "ok",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "GNU Radio": {
     "org": "GNU Radio",
@@ -869,8 +869,8 @@
     "mentors": [],
     "mailingLists": [],
     "tip": "",
-    "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "status": "fetch-failed",
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "gprMax": {
     "org": "gprMax",
@@ -880,7 +880,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "GRAME": {
     "org": "GRAME",
@@ -890,7 +890,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Graphite": {
     "org": "Graphite",
@@ -900,7 +900,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Haiku": {
     "org": "Haiku",
@@ -910,7 +910,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Haskell.org": {
     "org": "Haskell.org",
@@ -920,7 +920,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "HumanAI": {
     "org": "HumanAI",
@@ -930,7 +930,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "INCF": {
     "org": "INCF",
@@ -940,7 +940,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "fetch-failed",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "International Catrobat Association": {
     "org": "International Catrobat Association",
@@ -950,7 +950,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Internet Archive": {
     "org": "Internet Archive",
@@ -960,7 +960,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Invesalius": {
     "org": "Invesalius",
@@ -970,7 +970,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "IOOS": {
     "org": "IOOS",
@@ -997,7 +997,7 @@
     ],
     "tip": "Send a short intro email with your background and the idea you're interested in.",
     "status": "ok",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "JabRef e.V.": {
     "org": "JabRef e.V.",
@@ -1007,7 +1007,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "JBoss Community": {
     "org": "JBoss Community",
@@ -1017,7 +1017,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "JdeRobot": {
     "org": "JdeRobot",
@@ -1027,7 +1027,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Jenkins": {
     "org": "Jenkins",
@@ -1037,7 +1037,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Jitsi": {
     "org": "Jitsi",
@@ -1047,7 +1047,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Joomla!": {
     "org": "Joomla!",
@@ -1057,7 +1057,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "fetch-failed",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Joplin": {
     "org": "Joplin",
@@ -1073,7 +1073,7 @@
     "mailingLists": [],
     "tip": "Introduce yourself in the public channel before asking project-specific questions.",
     "status": "ok",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "JSON Schema": {
     "org": "JSON Schema",
@@ -1083,7 +1083,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "KDE Community": {
     "org": "KDE Community",
@@ -1093,7 +1093,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Kiwix": {
     "org": "Kiwix",
@@ -1103,7 +1103,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "KolibriOS Project Team": {
     "org": "KolibriOS Project Team",
@@ -1113,7 +1113,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Konflux": {
     "org": "Konflux",
@@ -1129,7 +1129,7 @@
     "mailingLists": [],
     "tip": "Join and say hi in the GSoC channel before DMing mentors.",
     "status": "ok",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Kornia": {
     "org": "Kornia",
@@ -1145,7 +1145,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "ok",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Kotlin Foundation": {
     "org": "Kotlin Foundation",
@@ -1155,7 +1155,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "fetch-failed",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Kubeflow": {
     "org": "Kubeflow",
@@ -1165,7 +1165,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "fetch-failed",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "KubeVirt": {
     "org": "KubeVirt",
@@ -1175,7 +1175,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "LabLua": {
     "org": "LabLua",
@@ -1185,7 +1185,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "fetch-failed",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Learning Equality": {
     "org": "Learning Equality",
@@ -1195,7 +1195,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Learning Unlimited": {
     "org": "Learning Unlimited",
@@ -1205,7 +1205,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "LibreCube Initiative": {
     "org": "LibreCube Initiative",
@@ -1215,7 +1215,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "fetch-failed",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "LibreHealth": {
     "org": "LibreHealth",
@@ -1225,7 +1225,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "fetch-failed",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "LibreOffice": {
     "org": "LibreOffice",
@@ -1241,7 +1241,7 @@
     ],
     "tip": "Send a short intro email with your background and the idea you're interested in.",
     "status": "ok",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "libssh": {
     "org": "libssh",
@@ -1251,7 +1251,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "fetch-failed",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Liquid Galaxy project": {
     "org": "Liquid Galaxy project",
@@ -1261,7 +1261,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "LLVM Compiler Infrastructure": {
     "org": "LLVM Compiler Infrastructure",
@@ -1277,7 +1277,7 @@
     "mailingLists": [],
     "tip": "Introduce yourself in the public channel before asking project-specific questions.",
     "status": "ok",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Machine Learning for Science (ML4SCI)": {
     "org": "Machine Learning for Science (ML4SCI)",
@@ -1287,7 +1287,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "MalariaGEN": {
     "org": "MalariaGEN",
@@ -1297,7 +1297,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "fetch-failed",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "MariaDB": {
     "org": "MariaDB",
@@ -1307,7 +1307,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "MDAnalysis": {
     "org": "MDAnalysis",
@@ -1368,7 +1368,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "ok",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Meshery": {
     "org": "Meshery",
@@ -1378,7 +1378,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "MetaBrainz Foundation Inc": {
     "org": "MetaBrainz Foundation Inc",
@@ -1388,7 +1388,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "MetaCall": {
     "org": "MetaCall",
@@ -1409,7 +1409,7 @@
     "mailingLists": [],
     "tip": "Introduce yourself in the public channel before asking project-specific questions.",
     "status": "ok",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Metaflow": {
     "org": "Metaflow",
@@ -1419,7 +1419,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Metasploit": {
     "org": "Metasploit",
@@ -1429,7 +1429,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "MIT App Inventor": {
     "org": "MIT App Inventor",
@@ -1439,7 +1439,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Mixxx": {
     "org": "Mixxx",
@@ -1461,7 +1461,7 @@
     ],
     "tip": "Post a new topic in the GSoC stream with your background and interest.",
     "status": "ok",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "MLLAM": {
     "org": "MLLAM",
@@ -1471,7 +1471,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "MoFA Org": {
     "org": "MoFA Org",
@@ -1487,7 +1487,7 @@
     "mailingLists": [],
     "tip": "Introduce yourself in the public channel before asking project-specific questions.",
     "status": "ok",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "MoganLab": {
     "org": "MoganLab",
@@ -1497,7 +1497,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "fetch-failed",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "National Resource for Network Biology (NRNB)": {
     "org": "National Resource for Network Biology (NRNB)",
@@ -1513,7 +1513,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "ok",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Neovim": {
     "org": "Neovim",
@@ -1523,7 +1523,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Neuroinformatics Unit": {
     "org": "Neuroinformatics Unit",
@@ -1539,7 +1539,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "ok",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Neutralinojs": {
     "org": "Neutralinojs",
@@ -1561,7 +1561,7 @@
     "mailingLists": [],
     "tip": "Introduce yourself in the public channel before asking project-specific questions.",
     "status": "ok",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "NixOS Foundation": {
     "org": "NixOS Foundation",
@@ -1577,7 +1577,7 @@
     "mailingLists": [],
     "tip": "Say hello in the public room and mention the project area you're exploring.",
     "status": "ok",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "NumFOCUS": {
     "org": "NumFOCUS",
@@ -1593,7 +1593,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "ok",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "omegaUp": {
     "org": "omegaUp",
@@ -1603,7 +1603,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Open Food Facts": {
     "org": "Open Food Facts",
@@ -1613,7 +1613,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Open Genome Informatics": {
     "org": "Open Genome Informatics",
@@ -1623,7 +1623,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Open HealthCare Network": {
     "org": "Open HealthCare Network",
@@ -1633,7 +1633,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Open Robotics": {
     "org": "Open Robotics",
@@ -1643,7 +1643,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Open Science Initiative for Perfusion Imaging": {
     "org": "Open Science Initiative for Perfusion Imaging",
@@ -1653,7 +1653,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "fetch-failed",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Open Science Labs": {
     "org": "Open Science Labs",
@@ -1669,7 +1669,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "ok",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Open Technologies Alliance - GFOSS": {
     "org": "Open Technologies Alliance - GFOSS",
@@ -1679,7 +1679,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "fetch-failed",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Open Transit Software Foundation": {
     "org": "Open Transit Software Foundation",
@@ -1689,7 +1689,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "OpenAFS": {
     "org": "OpenAFS",
@@ -1699,7 +1699,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "fetch-failed",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "OpenAstronomy": {
     "org": "OpenAstronomy",
@@ -1715,7 +1715,7 @@
     ],
     "tip": "Send a short intro email with your background and the idea you're interested in.",
     "status": "ok",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "OpenELIS Global": {
     "org": "OpenELIS Global",
@@ -1725,7 +1725,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "OpenMRS": {
     "org": "OpenMRS",
@@ -1735,7 +1735,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "fetch-failed",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "OpenMS Inc": {
     "org": "OpenMS Inc",
@@ -1745,7 +1745,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "OpenStreetMap": {
     "org": "OpenStreetMap",
@@ -1755,7 +1755,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "openSUSE Project": {
     "org": "openSUSE Project",
@@ -1765,7 +1765,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "fetch-failed",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "OpenVINO Toolkit": {
     "org": "OpenVINO Toolkit",
@@ -1775,7 +1775,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "OpenWISP": {
     "org": "OpenWISP",
@@ -1785,7 +1785,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "fetch-failed",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Oppia Foundation": {
     "org": "Oppia Foundation",
@@ -1872,7 +1872,7 @@
     ],
     "tip": "Send a short intro email with your background and the idea you're interested in.",
     "status": "ok",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "OSGeo (Open Source Geospatial Foundation)": {
     "org": "OSGeo (Open Source Geospatial Foundation)",
@@ -1888,7 +1888,7 @@
     ],
     "tip": "Send a short intro email with your background and the idea you're interested in.",
     "status": "ok",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "OWASP Foundation": {
     "org": "OWASP Foundation",
@@ -1898,7 +1898,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "fetch-failed",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "PEcAn Project": {
     "org": "PEcAn Project",
@@ -1919,7 +1919,7 @@
     "mailingLists": [],
     "tip": "Join and say hi in the GSoC channel before DMing mentors.",
     "status": "ok",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Pharo Consortium": {
     "org": "Pharo Consortium",
@@ -1929,7 +1929,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "PostgreSQL": {
     "org": "PostgreSQL",
@@ -1939,7 +1939,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "preCICE": {
     "org": "preCICE",
@@ -1949,7 +1949,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Processing Foundation": {
     "org": "Processing Foundation",
@@ -1959,7 +1959,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Project Mesa": {
     "org": "Project Mesa",
@@ -1969,7 +1969,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Python Software Foundation": {
     "org": "Python Software Foundation",
@@ -2011,7 +2011,7 @@
     "mailingLists": [],
     "tip": "Say hello in the public room and mention the project area you're exploring.",
     "status": "ok",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "QC-Devs": {
     "org": "QC-Devs",
@@ -2021,7 +2021,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "QEMU": {
     "org": "QEMU",
@@ -2031,7 +2031,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "fetch-failed",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Qubes OS": {
     "org": "Qubes OS",
@@ -2041,7 +2041,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "R project for statistical computing": {
     "org": "R project for statistical computing",
@@ -2051,7 +2051,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "fetch-failed",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Rizin": {
     "org": "Rizin",
@@ -2061,7 +2061,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "rocket.chat": {
     "org": "rocket.chat",
@@ -2071,7 +2071,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "RTEMS Project": {
     "org": "RTEMS Project",
@@ -2087,7 +2087,7 @@
     ],
     "tip": "Send a short intro email with your background and the idea you're interested in.",
     "status": "ok",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Ruby": {
     "org": "Ruby",
@@ -2108,33 +2108,17 @@
     "mailingLists": [],
     "tip": "",
     "status": "ok",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "SageMath": {
     "org": "SageMath",
     "ideasUrl": "https://wiki.sagemath.org/GSoC/2026",
     "channels": [],
     "mentors": [],
-    "mailingLists": [
-      {
-        "type": "Mailing list",
-        "url": "https://groups.google.com/forum/",
-        "label": "sage-gsoc"
-      },
-      {
-        "type": "Mailing list",
-        "url": "https://groups.google.com/g/fricas-devel/c/qYzrY-92Q2A/m/P49CneVKAQAJ",
-        "label": "SageMath Mailing list"
-      },
-      {
-        "type": "Mailing list",
-        "url": "https://groups.google.com/g/fricas-devel/c/ds7aqEd-lj4/m/IvUXk3ZCAgAJ",
-        "label": "SageMath Mailing list"
-      }
-    ],
-    "tip": "Send a short intro email with your background and the idea you're interested in.",
-    "status": "ok",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "mailingLists": [],
+    "tip": "",
+    "status": "fetch-failed",
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "ScummVM": {
     "org": "ScummVM",
@@ -2144,7 +2128,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "St. Jude Children's Research Hospital": {
     "org": "St. Jude Children's Research Hospital",
@@ -2154,7 +2138,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "fetch-failed",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "stdlib": {
     "org": "stdlib",
@@ -2170,7 +2154,7 @@
     "mailingLists": [],
     "tip": "Post a new topic in the GSoC stream with your background and interest.",
     "status": "ok",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Ste||ar group": {
     "org": "Ste||ar group",
@@ -2180,7 +2164,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Stichting SU2": {
     "org": "Stichting SU2",
@@ -2190,7 +2174,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "fetch-failed",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Submitty": {
     "org": "Submitty",
@@ -2200,7 +2184,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Sugar Labs": {
     "org": "Sugar Labs",
@@ -2291,7 +2275,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "ok",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "SW360": {
     "org": "SW360",
@@ -2312,7 +2296,7 @@
     "mailingLists": [],
     "tip": "Join and say hi in the GSoC channel before DMing mentors.",
     "status": "ok",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Swift": {
     "org": "Swift",
@@ -2322,7 +2306,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "SymPy": {
     "org": "SymPy",
@@ -2359,7 +2343,7 @@
     ],
     "tip": "Send a short intro email with your background and the idea you're interested in.",
     "status": "ok",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Synfig": {
     "org": "Synfig",
@@ -2369,7 +2353,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "TARDIS RT Collaboration": {
     "org": "TARDIS RT Collaboration",
@@ -2379,7 +2363,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "The FreeBSD Project": {
     "org": "The FreeBSD Project",
@@ -2389,7 +2373,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "The Honeynet Project": {
     "org": "The Honeynet Project",
@@ -2405,7 +2389,7 @@
     "mailingLists": [],
     "tip": "Introduce yourself in the public channel before asking project-specific questions.",
     "status": "ok",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "The JPF team": {
     "org": "The JPF team",
@@ -2432,7 +2416,7 @@
     ],
     "tip": "Introduce yourself in the public channel before asking project-specific questions.",
     "status": "ok",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "The Julia Language": {
     "org": "The Julia Language",
@@ -2442,23 +2426,17 @@
     "mailingLists": [],
     "tip": "",
     "status": "fetch-failed",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "The Libreswan Project": {
     "org": "The Libreswan Project",
     "ideasUrl": "https://libreswan.org/wiki/GSoC",
     "channels": [],
     "mentors": [],
-    "mailingLists": [
-      {
-        "type": "Mailing list",
-        "url": "https://lists.libreswan.org/",
-        "label": "The Libreswan Project Mailing list"
-      }
-    ],
-    "tip": "Send a short intro email with your background and the idea you're interested in.",
-    "status": "ok",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "mailingLists": [],
+    "tip": "",
+    "status": "no-contact-found",
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "The Linux Foundation": {
     "org": "The Linux Foundation",
@@ -2468,7 +2446,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "fetch-failed",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "The Mifos Initiative": {
     "org": "The Mifos Initiative",
@@ -2478,7 +2456,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "The NetBSD Foundation": {
     "org": "The NetBSD Foundation",
@@ -2488,17 +2466,34 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "The ns-3 Network Simulator Project": {
     "org": "The ns-3 Network Simulator Project",
     "ideasUrl": "https://www.nsnam.org/wiki/GSOC2026Projects",
-    "channels": [],
+    "channels": [
+      {
+        "type": "Zulip",
+        "url": "https://ns-3.zulipchat.com/",
+        "label": "The ns-3 Network Simulator Project Zulip"
+      }
+    ],
     "mentors": [],
-    "mailingLists": [],
-    "tip": "",
-    "status": "fetch-failed",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "mailingLists": [
+      {
+        "type": "Mailing list",
+        "url": "https://groups.google.com/g/ns-developers",
+        "label": "ns-developers mailing list"
+      },
+      {
+        "type": "Mailing list",
+        "url": "https://groups.google.com/g/ns-developers/c/xGCOIAuTYs8/m/yhzpGJkYAwAJ?utm_medium=email&amp;utm_source=footer",
+        "label": "UI \"Designer\" for NS3 Based Visual Scripting"
+      }
+    ],
+    "tip": "Post a new topic in the GSoC stream with your background and interest.",
+    "status": "ok",
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "The OpenROAD Initiative": {
     "org": "The OpenROAD Initiative",
@@ -2508,7 +2503,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "The P4 Language Consortium": {
     "org": "The P4 Language Consortium",
@@ -2529,7 +2524,7 @@
     "mailingLists": [],
     "tip": "Post a new topic in the GSoC stream with your background and interest.",
     "status": "ok",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "The Rust Foundation": {
     "org": "The Rust Foundation",
@@ -2566,7 +2561,7 @@
     "mailingLists": [],
     "tip": "Post a new topic in the GSoC stream with your background and interest.",
     "status": "ok",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Tiled": {
     "org": "Tiled",
@@ -2576,7 +2571,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Typelevel": {
     "org": "Typelevel",
@@ -2653,7 +2648,7 @@
     "mailingLists": [],
     "tip": "Introduce yourself in the public channel before asking project-specific questions.",
     "status": "ok",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "UC OSPO": {
     "org": "UC OSPO",
@@ -2663,7 +2658,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "fetch-failed",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Unikraft": {
     "org": "Unikraft",
@@ -2673,7 +2668,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "fetch-failed",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "United Nations Office of Information Communication Technology": {
     "org": "United Nations Office of Information Communication Technology",
@@ -2683,7 +2678,7 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Uramaki LAB": {
     "org": "Uramaki LAB",
@@ -2693,21 +2688,15 @@
     "mailingLists": [],
     "tip": "",
     "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "VideoLAN": {
     "org": "VideoLAN",
     "ideasUrl": "https://wiki.videolan.org/SoC_2026/",
-    "channels": [
-      {
-        "type": "IRC",
-        "url": "https://web.libera.chat/#videolan",
-        "label": "#videolan on Libera.Chat"
-      }
-    ],
+    "channels": [],
     "mentors": [
       {
-        "name": "Pierre",
+        "name": "Pierre VLC",
         "github": "",
         "githubUrl": ""
       },
@@ -2717,7 +2706,7 @@
         "githubUrl": ""
       },
       {
-        "name": "Diogo Simao Marques",
+        "name": "Diogo Simao",
         "github": "",
         "githubUrl": ""
       },
@@ -2727,7 +2716,7 @@
         "githubUrl": ""
       },
       {
-        "name": "Felix Paul Kühne",
+        "name": "Felix Paul",
         "github": "",
         "githubUrl": ""
       },
@@ -2742,7 +2731,7 @@
         "githubUrl": ""
       },
       {
-        "name": "Nicolas Pomepuy",
+        "name": "Nicolas",
         "github": "",
         "githubUrl": ""
       },
@@ -2757,7 +2746,7 @@
         "githubUrl": ""
       },
       {
-        "name": "Martin",
+        "name": "David",
         "github": "",
         "githubUrl": ""
       }
@@ -2766,54 +2755,22 @@
       {
         "type": "Mailing list",
         "url": "https://mailman.videolan.org/mailman/listinfo",
-        "label": "VideoLAN mailing lists"
+        "label": "mailing-lists"
       }
     ],
-    "tip": "Join #videolan on Libera.Chat IRC or send an email to the mailing list to introduce yourself before asking project-specific questions.",
+    "tip": "Send a short intro email with your background and the idea you're interested in.",
     "status": "ok",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Wagtail": {
     "org": "Wagtail",
-    "ideasUrl": "https://github.com/wagtail/gsoc/blob/main/project-ideas.md",
-    "channels": [
-      {
-        "type": "GitHub Discussions",
-        "url": "https://github.com/wagtail/gsoc/discussions",
-        "label": "Wagtail GSoC GitHub Discussions"
-      },
-      {
-        "type": "Slack",
-        "url": "https://wagtail.org/slack/",
-        "label": "Wagtail Slack"
-      }
-    ],
-    "mentors": [
-      {
-        "name": "Thibaud Colas",
-        "github": "thibaudcolas",
-        "githubUrl": "https://github.com/thibaudcolas"
-      },
-      {
-        "name": "Meagen Voss",
-        "github": "vossisboss",
-        "githubUrl": "https://github.com/vossisboss"
-      },
-      {
-        "name": "Coen van der Kamp",
-        "github": "allcaps",
-        "githubUrl": "https://github.com/allcaps"
-      },
-      {
-        "name": "Sævar Öfjörð Magnússon",
-        "github": "saevarom",
-        "githubUrl": "https://github.com/saevarom"
-      }
-    ],
+    "ideasUrl": "https://github.com/wagtail/wagtail/wiki/Google-Summer-of-Code-2026",
+    "channels": [],
+    "mentors": [],
     "mailingLists": [],
-    "tip": "Use GitHub Discussions at github.com/wagtail/gsoc/discussions to introduce yourself and ask questions before contacting mentors directly.",
-    "status": "ok",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "tip": "",
+    "status": "no-contact-found",
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "webpack": {
     "org": "webpack",
@@ -2829,7 +2786,7 @@
     "mailingLists": [],
     "tip": "Introduce yourself in the public channel before asking project-specific questions.",
     "status": "ok",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Wikimedia Foundation": {
     "org": "Wikimedia Foundation",
@@ -2837,126 +2794,15 @@
     "channels": [
       {
         "type": "Zulip",
-        "url": "https://wikimedia.zulipchat.com/#narrow/stream/561533-GSoC2026",
-        "label": "GSoC2026 Zulip stream"
+        "url": "https://wikimedia.zulipchat.com/",
+        "label": "Wikimedia Foundation Zulip"
       }
     ],
-    "mentors": [
-      {
-        "name": "Parthiv Menon",
-        "github": "",
-        "githubUrl": ""
-      },
-      {
-        "name": "Satdeep Gill",
-        "github": "",
-        "githubUrl": ""
-      },
-      {
-        "name": "Nokib_Sarkar",
-        "github": "",
-        "githubUrl": ""
-      },
-      {
-        "name": "Tiven2240",
-        "github": "",
-        "githubUrl": ""
-      },
-      {
-        "name": "Peter F. Patel Schneider",
-        "github": "",
-        "githubUrl": ""
-      },
-      {
-        "name": "David Martin",
-        "github": "",
-        "githubUrl": ""
-      },
-      {
-        "name": "Nicolas Raoul",
-        "github": "",
-        "githubUrl": ""
-      },
-      {
-        "name": "Ritika Pahwa",
-        "github": "",
-        "githubUrl": ""
-      },
-      {
-        "name": "Yaron Koren",
-        "github": "",
-        "githubUrl": ""
-      },
-      {
-        "name": "cicalese",
-        "github": "",
-        "githubUrl": ""
-      },
-      {
-        "name": "Kaartic",
-        "github": "",
-        "githubUrl": ""
-      },
-      {
-        "name": "Neeldoshii",
-        "github": "",
-        "githubUrl": ""
-      },
-      {
-        "name": "KC Velaga",
-        "github": "",
-        "githubUrl": ""
-      },
-      {
-        "name": "Jay Prakash",
-        "github": "",
-        "githubUrl": ""
-      },
-      {
-        "name": "Effeietsanders",
-        "github": "",
-        "githubUrl": ""
-      },
-      {
-        "name": "Ragesoss",
-        "github": "",
-        "githubUrl": ""
-      },
-      {
-        "name": "Abishek Das",
-        "github": "",
-        "githubUrl": ""
-      },
-      {
-        "name": "Andrew Tavis",
-        "github": "",
-        "githubUrl": ""
-      },
-      {
-        "name": "Henrikt93",
-        "github": "",
-        "githubUrl": ""
-      },
-      {
-        "name": "DeleMike",
-        "github": "",
-        "githubUrl": ""
-      },
-      {
-        "name": "Parashar Sarthak",
-        "github": "",
-        "githubUrl": ""
-      },
-      {
-        "name": "Jnanaranjan Sahu",
-        "github": "",
-        "githubUrl": ""
-      }
-    ],
+    "mentors": [],
     "mailingLists": [],
     "tip": "Post a new topic in the GSoC stream with your background and interest.",
     "status": "ok",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   },
   "Zulip": {
     "org": "Zulip",
@@ -2972,6 +2818,6 @@
     "mailingLists": [],
     "tip": "Post a new topic in the GSoC stream with your background and interest.",
     "status": "ok",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
+    "lastFetched": "2026-09-15T20:50:06.035Z"
   }
 }
